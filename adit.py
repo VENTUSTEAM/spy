@@ -1,6 +1,6 @@
-Aditmadzs2/adit.py /
-@Aditmadzs
-Aditmadzs Update adit.py
+Seal Team/ps.py /
+@Seal Tean
+Seal Team Update sp.py
 Latest commit 762af3e on 29 Oct 2018
 History
 1 contributor
@@ -349,7 +349,7 @@ def help():
                   "╔════════════════════╗" + "\n" + \
                   " ◄]·✪·MENU·✪·[►" + "\n" + \
                   "╠════════════════════╝" + "\n" + \
-                  "╠❂➣ " + key + "Help\n" + \
+                  "╠❂➣ " + key + "Yardım\n" + \
                   "╠❂➣ " + key + "Help bot\n" + \
                   "╠❂➣ " + key + "Translate\n" + \
                   "╠❂➣ " + key + "Meme\n" + \
@@ -368,7 +368,7 @@ def help():
                   "╠❂➣ " + key + "Respon\n" + \
                   "╠❂➣ " + key + "Speed/Sp\n" + \
                   "╠❂➣ " + key + "Sprespon\n" + \
-                  "╠❂➣ " + key + "Tagall\n" + \
+                  "╠❂➣ " + key + "Mention\n" + \
                   "╠❂➣ " + key + "join dit\n" + \
                   "╠❂➣ " + key + "Assist join\n" + \
                   "╠❂➣ " + key + "Ginfo\n" + \
@@ -431,7 +431,7 @@ def help():
                   "╠❂➣ " + key + "Contact「on/off」\n" + \
                   "╠❂➣ " + key + "Autojoin「on/off」\n" + \
                   "╠❂➣ " + key + "Autoadd「on/off」\n" + \
-                  "╠❂➣ " + key + "Welcome「on/off」\n" + \
+                  "╠❂➣ " + key + "Hoş Geldiniz「on/off」\n" + \
                   "╠❂➣ " + key + "Simi「on/off」\n" + \
                   "╠❂➣ " + key + "Autoleave「on/off」\n" + \
                   "╠══════════════════════════════╗" + "\n" + \
@@ -1439,7 +1439,7 @@ def bot(op):
                             if msg._from in admin:
                                 tz = pytz.timezone("Asia/Jakarta")
                                 timeNow = datetime.now(tz=tz)
-                                md = "  ┏━━━━━━━━━━━━━━━━━\n┃┃          SEAL TEAM \n┃┣━━━━━━━━━━━━━━━━━━━━\n"
+                                md = "  ┏━━━━━━━━━━━━━━━━━\n┃┃SEAL TEAM \n┃┣━━━━━━━━━━━━━━━━━━━━\n"
                                 if wait["unsend"] == True: md+="┃┃🍁 ✔️ Unsend「ON」\n"
                                 else: md+="┃┃🍁 ✖ Unsend「OFF」\n"                                
                                 if wait["sticker"] == True: md+="┃┃🍁 ✔️ Sticker「ON」\n"
