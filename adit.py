@@ -1,6 +1,6 @@
-Seal Team/ps.py /
+Seal Team/adit.py /
 @Seal Tean
-Seal Team Update sp.py
+Seal Team Update adit.py
 Latest commit 762af3e on 29 Oct 2018
 History
 1 contributor
